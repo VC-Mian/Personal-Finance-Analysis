@@ -5,6 +5,13 @@ This project analyzes six months of personal credit card transactions to identif
 
 > **Note:** Cashback rewards are excluded from this analysis.
 
+## Tools & Technologies
+- Excel
+- postgreSQL
+
+## Dataset
+My own credit card statements
+
 ---
 
 ## Key Metrics

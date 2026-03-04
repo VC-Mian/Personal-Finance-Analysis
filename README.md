@@ -56,7 +56,7 @@ Spending is irregular rather than steadily increasing. Large spikes appear event
 
 ### Key Insights
 - Merchandise accounts for nearly **47% of total spending**.
-- The top two categories (Merchandise + Utilities) represent **66.5% of total expenses**.
+- Non-Neccesary expesnees represent **69.09% of total expenses**.
 - Spending is highly concentrated in discretionary purchases.
 
 ---
